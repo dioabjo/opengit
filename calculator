@@ -1,0 +1,7 @@
+operator = input("Enter the operator")
+a = int(input"Enter the first no"))
+b = int(input("Enter the second no"))
+if operator== '+':
+  print("the ans is: ",a+b)
+else:
+  print("This is not a normal calculator")
